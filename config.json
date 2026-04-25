@@ -1,0 +1,24 @@
+{
+  "source": "./",
+  "destination": "./organized",
+  "extensions": {
+    ".pdf": "Documents",
+    ".docx": "Documents",
+    ".txt": "Documents",
+    ".jpg": "Images",
+    ".jpeg": "Images",
+    ".png": "Images",
+    ".gif": "Images",
+    ".mp4": "Videos",
+    ".mkv": "Videos",
+    ".mp3": "Audio",
+    ".wav": "Audio",
+    ".zip": "Archives",
+    ".rar": "Archives",
+    ".py": "Code",
+    ".cpp": "Code",
+    ".ipynb": "Code"
+  },
+  "others_folder": "Misc",
+  "recursive": false
+}
